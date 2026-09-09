@@ -1,0 +1,11 @@
+# SPDX-License-Identifier: Apache-2.0 OR MIT
+BasedOnStyle: LLVM
+Language: C
+Standard: c23
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 100
+PointerAlignment: Right
+SortIncludes: CaseSensitive
+IncludeBlocks: Regroup
