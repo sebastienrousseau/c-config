@@ -1,0 +1,38 @@
+[
+  {
+    "date": "",
+    "description": "How to install and set up @sebastienrousseau/c-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Installation — @sebastienrousseau/c-config",
+    "url": "https://sebastienrousseau.com/c-config/installation/",
+    "wordCount": 45
+  },
+  {
+    "date": "",
+    "description": "Model Context Protocol configuration for @sebastienrousseau/c-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Model Context Protocol (MCP) — @sebastienrousseau/c-config",
+    "url": "https://sebastienrousseau.com/c-config/mcp/",
+    "wordCount": 15
+  },
+  {
+    "date": "",
+    "description": "Reference specifications and options for @sebastienrousseau/c-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Reference — @sebastienrousseau/c-config",
+    "url": "https://sebastienrousseau.com/c-config/reference/",
+    "wordCount": 30
+  },
+  {
+    "date": "",
+    "description": "How to use and configure @sebastienrousseau/c-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Usage — @sebastienrousseau/c-config",
+    "url": "https://sebastienrousseau.com/c-config/usage/",
+    "wordCount": 30
+  }
+]
