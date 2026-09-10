@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .clang-format
+
 Deterministic C23 formatting configuration enforcing 4-space indentation, 100-character line length, and sorted includes. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. .clang-tidy
+
 Exhaustive static analysis preset enabling CERT, bugprone, readability, and performance diagnostic checks. Designed to guarantee deterministic behavior across all development and continuous integration environments.
