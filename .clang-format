@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0 OR MIT
 BasedOnStyle: LLVM
-Language: C
-Standard: c23
+Language: Cpp
+Standard: Latest
 IndentWidth: 4
 TabWidth: 4
 UseTab: Never

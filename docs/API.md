@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable C configuration standards providing modern C23 clang-format and strict clang-tidy rules.
 
 ---
@@ -22,11 +23,13 @@ Shareable C configuration standards providing modern C23 clang-format and strict
 ## Feature & Property Reference
 
 ### 1. .clang-format
+
 - **Description**: Deterministic C23 formatting configuration enforcing 4-space indentation, 100-character line length, and sorted includes.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. .clang-tidy
+
 - **Description**: Exhaustive static analysis preset enabling CERT, bugprone, readability, and performance diagnostic checks.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
