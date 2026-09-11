@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/c-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/c-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/c-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/c-config/
+.clang-format usr/share/nodejs/@sebastienrousseau/c-config/
+.clang-tidy usr/share/nodejs/@sebastienrousseau/c-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/c-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/c-config/
+package.json usr/share/nodejs/@sebastienrousseau/c-config/
