@@ -1,5 +1,0 @@
-# c-config
-
-> Shareable C configuration providing standardized clang-format and clang-tidy rules adhering to modern 2026 standards.
-
-Language: en-GB
