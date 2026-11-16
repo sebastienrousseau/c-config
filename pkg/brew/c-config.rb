@@ -6,7 +6,7 @@
 class CConfig < Formula
   desc "Shareable C configuration providing standardized clang-format and clang-tidy rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/c-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/c-config/-/c-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/c-config/-/c-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
